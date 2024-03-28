@@ -1,0 +1,12 @@
+/* TaskCard.css */
+.card {
+    position: relative;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Additional styling for task card elements can be added here */
+  
