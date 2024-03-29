@@ -29,13 +29,11 @@ To get started with the **ReactJS Task Tracker** project, follow these steps:
    ```
    cd task-tracker
    npm install
-
    ```
 
 3. **Run the Development Server**
    ```
    npm start
-   
    ```
 
 4.**Open the Application**
@@ -60,3 +58,5 @@ Error handling is implemented in the following areas:
 -**Data Retrieval**: When retrieving tasks from local storage or an API, error handling is implemented to catch any errors that may occur during data retrieval and display appropriate messages to the user.
 
 -**Form Submission**: Error handling is implemented when submitting forms to ensure that all required fields are filled out correctly before allowing the submission to proceed.
+
+**Thank you for visiting this repository, feel free to pull issue request :)**
