@@ -24,3 +24,39 @@ To get started with the **ReactJS Task Tracker** project, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/khushi0706/Task-Tracker-using-ReactJs.git
+
+2. **Install dependencies**
+   ```
+   cd task-tracker
+   npm install
+
+   ```
+
+3. **Run the Development Server**
+   ```
+   npm start
+   
+   ```
+
+4.**Open the Application**
+Once the development server is running, open your web browser and navigate to http://localhost:3000 to view the Task Tracker application or it will automatically open it.
+
+## Assumptions
+While designing this project, the following assumptions were made:
+
+-**User Authentication**: This project assumes that user authentication is not required for managing tasks. Therefore, anyone with access to the application can add, edit, and delete tasks.
+
+-**Local Storage**: Task data is stored locally in the browser's storage. There is no backend server involved in this project for storing task information.
+
+-**Single User**: The project assumes that it will be used by a single user at a time. Therefore, there are no features for collaborating on tasks with multiple users.
+
+## Error Handling
+Error handling is implemented in the following areas:
+
+-**Task Validation**: When adding or editing tasks, input fields are validated to ensure that required fields are not empty and that the data entered is in the correct format.
+
+-**Network Connectivity**: If there are any issues with network connectivity, the application displays an error message informing the user about the problem and suggests retrying or checking the network connection.
+
+-**Data Retrieval**: When retrieving tasks from local storage or an API, error handling is implemented to catch any errors that may occur during data retrieval and display appropriate messages to the user.
+
+-**Form Submission**: Error handling is implemented when submitting forms to ensure that all required fields are filled out correctly before allowing the submission to proceed.
