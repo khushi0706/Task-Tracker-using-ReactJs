@@ -1,7 +1,7 @@
 # ReactJS Task Tracker
 
-![ReactJS Task Tracker](<img width="960" alt="image" src="https://github.com/khushi0706/Task-Tracker-using-ReactJs/assets/96778933/548b8e1f-70e8-4159-9a91-80194b2df1c5">
-)
+![image](https://github.com/khushi0706/Task-Tracker-using-ReactJs/assets/96778933/59565fae-fe79-45a5-a683-7e033760d21b)
+
 
 ## Introduction
 
@@ -23,4 +23,5 @@ To get started with the **ReactJS Task Tracker** project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>
+](https://github.com/khushi0706/Task-Tracker-using-ReactJs.git)
