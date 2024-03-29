@@ -23,5 +23,4 @@ To get started with the **ReactJS Task Tracker** project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [<repository_url>
-](https://github.com/khushi0706/Task-Tracker-using-ReactJs.git)
+   git clone https://github.com/khushi0706/Task-Tracker-using-ReactJs.git
